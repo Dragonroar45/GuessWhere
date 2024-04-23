@@ -1,5 +1,5 @@
 # GuessWhere 🌍
-
+[![Python](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/)
 ## Project Description
 GuessWhere is an simple python application that utilizes IP address data to determine a user's geographical location. Presented under the guise of a user interaction game, the application asks participants a series of seemingly innocuous questions before revealing their actual location.
 
@@ -20,3 +20,7 @@ We welcome contributions from the community. To contribute:
 
 ## Licensing 📄
 This project is open-sourced under the MIT License. For more details, see the LICENSE file included with the distribution.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Dragonroar45/GuessWhere.svg?style=social&label=Star)](https://github.com/Dragonroar45/GuessWhere/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Dragonroar45/GuessWhere.svg?style=social&label=Fork)](https://github.com/Dragonroar45/GuessWhere/fork)
